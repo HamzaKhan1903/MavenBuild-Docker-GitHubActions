@@ -1,5 +1,5 @@
 name: build java application
-on: workflow_disptch
+on: 
   push:
     branches:
       - main
